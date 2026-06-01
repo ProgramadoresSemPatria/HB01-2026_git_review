@@ -4,7 +4,7 @@ AI-powered GitHub portfolio auditor. Authenticate with GitHub, select your publi
 
 Built for developers in career transition who want honest feedback before sending their GitHub to a recruiter.
 
-**Live app:** _coming soon_
+**Live app:** [Try GitReview](https://git-review-kohl.vercel.app/)
 
 ---
 
